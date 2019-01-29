@@ -77,7 +77,6 @@ namespace OpenTriviaDBApiRequester
         public GlobalQuestionCountResponse RequestGlobalQuestionCount()
         {
             string jsonString = SendAPIRequest("https://opentdb.com/api_count_global.php");
-            Console.WriteLine(jsonString);
             return JsonConvert.DeserializeObject<GlobalQuestionCountResponse>(jsonString);
         }
 
