@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTriviaDBManager", "OpenTriviaDBManager.csproj", "{CE6BC9C4-131C-4DCA-A0BE-DE02557DB5EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JP.OpenTriviaDB", "JP.OpenTriviaDB.csproj", "{CE6BC9C4-131C-4DCA-A0BE-DE02557DB5EA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTriviaDB.UnitTests", "..\OpenTriviaDBTests\OpenTriviaDB.UnitTests.csproj", "{84476E2A-808A-4921-BFF8-053D8979335B}"
 EndProject

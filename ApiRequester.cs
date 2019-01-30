@@ -5,11 +5,11 @@ using System.IO;
 using System.Net;
 using System.Text;
 
-namespace OpenTriviaDBApiRequester
+namespace JP.OpenTriviaDB
 {
-    public class OpenTriviaDBApiRequester
+    public class ApiRequester
     {
-        public OpenTriviaDBApiRequester() { }
+        public ApiRequester() { }
 
         /** Public methods **/
         public QuestionsResponse RequestQuestions(uint amount, 

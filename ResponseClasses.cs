@@ -1,11 +1,8 @@
 ﻿using Newtonsoft.Json;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace OpenTriviaDBApiRequester
+
+namespace JP.OpenTriviaDB
 {
     // Data classes
     // These contain information about a certain part of a request response
