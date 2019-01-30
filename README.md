@@ -1,4 +1,4 @@
-# OpenTriviaDBApiRequester
+# JP.OpenTriviaDB
 
 Simple tool for making API requests to OpenTrivia DB in C#. It makes the request to the API for you and converts the Json to a object.
 
