@@ -1,6 +1,6 @@
 # JP.OpenTriviaDB
 
-Simple tool for making API requests to OpenTrivia DB in C#. It makes the request to the API for you and converts the Json to a object.
+Simple library for making API requests to OpenTrivia DB in C#. It makes the request to the API for you and converts the Json to a object.
 
 Check out https://opentdb.com/ for more information about the database and in-depth details about the API.
 
