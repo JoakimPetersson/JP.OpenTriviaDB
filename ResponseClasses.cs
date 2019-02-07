@@ -41,13 +41,13 @@ namespace JP.OpenTriviaDB
         [JsonProperty("total_question_count")]
         public uint TotalQuestionCount;
 
-        [JsonProperty("easy_question_count")]
+        [JsonProperty("total_easy_question_count")]
         public uint EasyQuestionCount;
 
-        [JsonProperty("medium_question_count")]
+        [JsonProperty("total_medium_question_count")]
         public uint MediumQuestionCount;
 
-        [JsonProperty("hard_question_count")]
+        [JsonProperty("total_hard_question_count")]
         public uint HardQuestionCount;
     }
 
